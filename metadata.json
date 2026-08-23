@@ -1,0 +1,6 @@
+{
+  "name": "ToolBox - All-in-One Online Tools",
+  "description": "Production-ready suite of browser-based utilities for images, PDFs, QR & Barcode, developer tools, text and utilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
